@@ -11,12 +11,17 @@ public class NewLogin {
 
 	}
 	
-	private void compSalary() {
+	private void compMembers() {
+
 		// TODO Auto-generated method stub
 
 	}
 	
 	
+
+	private void compSalary() {
 	
+	
+	}
 
 }
