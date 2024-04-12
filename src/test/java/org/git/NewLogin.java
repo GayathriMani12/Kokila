@@ -11,6 +11,11 @@ public class NewLogin {
 
 	}
 	
+	private void compSalary() {
+		// TODO Auto-generated method stub
+
+	}
+	
 	
 	
 
