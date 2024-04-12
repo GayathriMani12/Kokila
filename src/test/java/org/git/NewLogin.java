@@ -11,6 +11,11 @@ public class NewLogin {
 
 	}
 	
+	private void compMembers() {
+		// TODO Auto-generated method stub
+
+	}
+	
 	
 	
 
